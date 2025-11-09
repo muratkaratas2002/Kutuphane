@@ -1,4 +1,4 @@
-﻿namespace Kütüphane
+﻿namespace Kutuphane
 {
     internal class Kütüphane
     {
